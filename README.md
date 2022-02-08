@@ -47,5 +47,5 @@ A VanGogh Web é uma página que contém informações básicas sobre este artis
 <h3 align="center">Status</h3>
 
 <p>
-    
+    ✔️ FINALIZADO ✔️
 </p>
